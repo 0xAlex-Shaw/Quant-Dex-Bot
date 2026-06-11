@@ -24,7 +24,7 @@ Will our beloved Python be able to accomplish this? We'll see 😎
 
 This branch has an example strategy that supports DEX arbitrages.
 
-The smart contracts for WhackAMoleBotV1 and SimulatorV1 can be found in **contracts/src**.
+The smart contracts for MainBotV1 and SimulatorV1 can be found in main.
 
 ```bash
 forge compile
